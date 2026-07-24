@@ -1,0 +1,32 @@
+# Données brutes
+data/
+*.csv
+*.zip
+
+# Environnements virtuels
+venv/
+env/
+.venv/
+
+# Fichiers Python temporaires
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Modèles entraînés
+outputs/models/
+*.pkl
+*.joblib
+
+# Fichiers système Windows
+Thumbs.db
+desktop.ini
+
+# Fichiers de configuration personnels
+.env
+*.key
+
+# Brouillons
+brouillon_idees.md
+journal.md
+notes_perso/
