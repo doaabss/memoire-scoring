@@ -1,4 +1,4 @@
-# Mémoire M2 MBFA — Scoring de crédit et machine learning
+# Mémoire M2 MBFA - Scoring de crédit et machine learning
 
 Étude comparative de modèles de scoring de crédit (régression logistique, 
 Random Forest, XGBoost) sur le dataset Home Credit Default Risk, avec 
