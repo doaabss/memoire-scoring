@@ -14,11 +14,11 @@ cas Home Credit
 
 ## Structure du projet
 
-- `data/` — données brutes (ignorées par Git, à télécharger depuis Kaggle)
-- `notebooks/` — notebooks d'exploration et de modélisation
-- `outputs/` — figures et modèles finaux
-- `bibliographie/` — articles et documents de référence
-- `redaction/` — brouillons de rédaction
+- `data/` : données brutes 
+- `notebooks/` : notebooks d'exploration et de modélisation
+- `outputs/` - figures et modèles finaux
+- `bibliographie/` - articles et documents de référence
+- `redaction/` - brouillons de rédaction
 
 ## Environnement
 
